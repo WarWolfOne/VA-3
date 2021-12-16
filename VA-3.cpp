@@ -1,3 +1,9 @@
+//Matheus do Nascimento Saito - 2020262
+// Marco Antônio Martins - 1910497
+// Pedro Wilson Rodrigues de Lima - 2020267
+// Alexandre Silva Oliveira - 2111127
+// Guilherme Gomes de Almeida - 2020890
+// Marcos Vinicius Fernandes Alves - 2021030
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
