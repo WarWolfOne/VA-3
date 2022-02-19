@@ -149,10 +149,3 @@ void insertionSort(int vet[], int num) {
 		imprimirVetor(vet,num);
 	}
 }
-
-
-
-
-
-
-
